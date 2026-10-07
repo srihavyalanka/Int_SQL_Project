@@ -27,7 +27,7 @@ This project analyzes e-commerce sales data to understand customer behavior, rev
 
 **📈 Visualization**
 
-![Customer Segmentation](/images/1_customer_segmentation.png)
+<img src="images/1_customer_segmentation.png" alt="Customer Segmentation" width="70%">
 
 📊 **Key Findings:**
 - High-value segment generates 65.6% ($135.43M) of total revenue from 25% of customers, averaging $10,946.43 per user.
@@ -53,11 +53,11 @@ This project analyzes e-commerce sales data to understand customer behavior, rev
 
 Customer Revenue by Cohort - First Purchase Date
 
-![Cohort Analysis](/images/2_cohort_analysis.png)
+<img src="images/2_cohort_analysis.png" alt="Cohort Analysis" width="70%">
 
 Monthly Net Revenue & Customer Trends (3 Month Rolling Average)
 
-![Monthly Revenue](/images/2_monthly_revenue.png)
+<img src="images/2_monthly_revenue.png" alt="Monthly Revenue" width="70%">
 
 📊 **Key Findings:** 
 - Customer revenue is declining: the 2016, 2017 and 2019 cohorts spent ~$2,900 per customer, while the 2024 cohort dropped to ~$1,970.
@@ -79,7 +79,7 @@ Monthly Net Revenue & Customer Trends (3 Month Rolling Average)
 
 **📈 Visualization**
 
-![Customer Retention](/images/3_customer_retention.png)
+<img src="images/3_customer_retention.png" alt="Customer Retention" width="70%">
 
 📊 **Key Findings:**
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.
@@ -110,5 +110,5 @@ Monthly Net Revenue & Customer Trends (3 Month Rolling Average)
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL, Dbeaver
+- **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
 - **Visualization:** Google Gemini 
