@@ -27,7 +27,7 @@ This project analyzes e-commerce sales data to understand customer behavior, rev
 
 **📈 Visualization**
 
-<img src="images/1_customer_segmentation.png" alt="Customer Segmentation" width="80%">
+<img src="images/1_customer_segmentation.png" alt="Customer Segmentation" width="100%">
 
 📊 **Key Findings:**
 - High-value segment generates 65.6% ($135.43M) of total revenue from 25% of customers, averaging $10,946.43 per user.
@@ -53,11 +53,11 @@ This project analyzes e-commerce sales data to understand customer behavior, rev
 
 Customer Revenue by Cohort - First Purchase Date
 
-<img src="images/2_cohort_analysis.png" alt="Cohort Analysis" width="80%">
+<img src="images/2_cohort_analysis.png" alt="Cohort Analysis" width="100%">
 
 Monthly Net Revenue & Customer Trends (3 Month Rolling Average)
 
-<img src="images/2_monthly_revenue.png" alt="Monthly Revenue" width="80%">
+<img src="images/2_monthly_revenue.png" alt="Monthly Revenue" width="100%">
 
 📊 **Key Findings:** 
 - Customer revenue is declining: the 2016, 2017 and 2019 cohorts spent ~$2,900 per customer, while the 2024 cohort dropped to ~$1,970.
@@ -79,7 +79,7 @@ Monthly Net Revenue & Customer Trends (3 Month Rolling Average)
 
 **📈 Visualization**
 
-<img src="images/3_customer_retention.png" alt="Customer Retention" width="80%">
+<img src="images/3_customer_retention.png" alt="Customer Retention" width="100%">
 
 📊 **Key Findings:**
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.
